@@ -1,6 +1,6 @@
 # MATLAB MultiLayer Perceptron (MLP)-not recommended
 
-A simple, low level, unfinished implementation of the MLP type Neural Network algorithm with gradient descent. <br>
+An old, simple, low level, unfinished implementation of the MLP type Neural Network algorithm with gradient descent. <br>
 This code is NOT recommended for general, straightforward usage. Matlab comes with a much more efficient MLP implementation.
 
 This code is useful for understanding the MLP algorithm, as well as a basis for creating your own specially designed (low-level) MLP.
